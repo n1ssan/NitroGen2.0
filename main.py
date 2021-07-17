@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+# github.com/BinaryEgypt
 import random
 import requests
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k',]
