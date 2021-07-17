@@ -19,7 +19,7 @@ while True:
 
  if "Unknown Gift Code" and "You are being rate limited" not in b.text:
    print('discord.gifts/'+m+'Is Valid!')
-   file = open("codes.txt", "w")
+   file = open("okcodes.txt", "w")
    file.write('discord.gifts/'+m)
    file.close()
    
