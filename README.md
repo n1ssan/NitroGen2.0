@@ -7,4 +7,4 @@ for best, Use proxies
 Valid codes show up in terminal and okcodes.txt
 
 
-Old --> (https://github.com/BinaryEgypt/Nitro-genJs)
+Old --> (https://github.com/m000000000n/Nitro-genJs)
