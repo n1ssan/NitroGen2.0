@@ -12,7 +12,14 @@ You can even add webhook support to send you the codes!
 **Also note python3 is required to use this.**
 
 First in your terminal run `git clone https://github.com/m000000000n/NitroGen2.0/`
+
+
+
 Then run `cd NitroGen2.0`
+
+
 next, ` python3 main.py `
+
+
 and thats it! you should be ready! 
 
