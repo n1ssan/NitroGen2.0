@@ -25,7 +25,10 @@ next, ` python3 main.py `
 and thats it! you should be ready! 
 
 
-You can also run on mobile devices! ios & android!
+
+# You can also run on mobile devices! ios & android!
+
+
 
 First go to replit.com
 
