@@ -45,8 +45,14 @@ lastly run, `python3 new.py`
 # How to use without checker (not recomended)
 
 run `cd NitroGen2.0`
+
+
 then `cd generator`
+
+
 then run `python3 gen.py`
+
+
 
 
 
