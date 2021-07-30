@@ -24,3 +24,15 @@ next, ` python3 main.py `
 
 and thats it! you should be ready! 
 
+
+You can also run on mobile devices! ios & android!
+
+First go to replit.com
+
+
+Then make a new python project
+
+
+go to the terminal in the project and type `git clone https://github.com/m000000000n/NitroGen2.0`
+
+Now press run! Should work!
