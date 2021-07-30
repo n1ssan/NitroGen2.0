@@ -1,7 +1,7 @@
 # Github.com/m000000000n                                                        
 import random                                                                   
 import requests
-import * from config
+from config import *
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 if lettersOnly == True:
  a=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
