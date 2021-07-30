@@ -9,7 +9,7 @@
 # Table of contents
 
 [(hi])](#Contributors)
-[(Back to top)](#Contributors)
+[(Back to top)](# Contributors)
 
 # Why and What this project is.
 I made this for discord users, who sadly could not afford nitro.
@@ -54,7 +54,7 @@ go to the terminal in the project and type `git clone https://github.com/m000000
 Now press run! Should work!
 
 
-#Contributors
+# Contributors
 
 #### Owner 
 
