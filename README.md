@@ -4,7 +4,7 @@
 
 
 
-![ni](# Contributors)
+![ni](#Contributors)
 
 # Tabel of contents
 [About project](# Why and What this project is.)
@@ -54,7 +54,7 @@ go to the terminal in the project and type `git clone https://github.com/m000000
 Now press run! Should work!
 
 
-# Contributors
+#Contributors
 
 #### Owner 
 
