@@ -9,7 +9,7 @@ if numbersOnly == True:
   a=['1','2','3','4','5','6','7','8','9','0']
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
-
+'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'}
                                                                                     
 while True:                                                                     
    w = random.choice(a)                                                           
@@ -34,12 +34,16 @@ while True:
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
                                                                                   
-   print('\033[31m' + 'discord.gifts/'+m+' Was invalid'+ '\033[0m')            
+    print('\033[31m' + 'discord.gifts/'+m+' Was invalid'+ '\033[0m')            
    if b.status_code == 429:                                                       
-   print("\033[1;33m"+"Rate Limited"+"\033[0m")                                 
+    print("\033[1;33m"+"Rate Limited"+"\033[0m")                                 
                                                                                    
    if b.status_code == 200:                                                       
-   print('discord.gifts/'+m+'Is Valid!')                                        
-   file = open("okcodes.txt", "w")                                              
-   file.write('discord.gifts/'+m)                                               
-   file.close() 
+    print('discord.gifts/'+m+'Is Valid!')
+    if sniperOn == True:
+      requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
+      print('Nitro redeemed!')
+      else:
+       file = open("okcodes.txt", "w")                                              
+       file.write('discord.gifts/'+m)                                               
+       file.close() 
