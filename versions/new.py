@@ -1,7 +1,7 @@
 # Github.com/m000000000n                                                        
 import random                                                                   
 import requests                                                                 
-a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p']
+a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','10']
                                                                                      
 while True:                                                                     
    w = random.choice(a)                                                           
@@ -10,8 +10,17 @@ while True:
    f = random.choice(a)                                                           
    g = random.choice(a)                                                           
    h = random.choice(a)                                                           
-   i = random.choice(a)                                                           
-   m = f+e+w+d+g+h+i                                                              
+   i = random.choice(a)
+   j = random.choice(a) 
+   k = random.choice(a) 
+   l = random.choice(a) 
+   n = random.choice(a) 
+   o = random.choice(a) 
+   p = random.choice(a) 
+   q = random.choice(a) 
+   r = random.choice(a) 
+   s = random.choice(a) 
+   m = f+e+w+d+g+h+i+j+k+l+n+o+p+q+r+s                                                            
    c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'?with_application=false&with_subscription_plan=true'
                                                                                   
    b = requests.get(c)                                                            
