@@ -2,6 +2,12 @@
 # Nitro Gen 2.0 (Now in Python)
 > Old Version (dont use) --> github.com/m000000000n/Nitro-genJs
 
+
+# Tabel of contents
+- [About project](# Why and What this project is.)
+- [How to use](# Ok Ok We get it, but how to use this?)
+- [run on mobile](# You can also run on mobile devices! ios & android!)
+- -[Contributors](# Contributors)
 # Why and What this project is.
 I made this for discord users, who sadly could not afford nitro.
 It generates a nitro gift code that you are able to claim! 
