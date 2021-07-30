@@ -12,7 +12,7 @@ while True:
    h = random.choice(a)                                                           
    i = random.choice(a)                                                           
    m = f+e+w+d+g+h+i                                                              
-   c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'?with_application=false&with_subs
+   c = 'https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'?with_application=false&with_subscription_plan=true'
                                                                                   
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
