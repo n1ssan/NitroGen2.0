@@ -37,7 +37,10 @@ First in your terminal run `git clone https://github.com/m000000000n/NitroGen2.0
 Then run `cd NitroGen2.0`
 
 
-next, ` python3 main.py `
+Then run, ` cd versions`
+
+
+lastly run, `python3 new.py`
 
 
 and thats it! you should be ready! 
