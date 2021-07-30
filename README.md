@@ -42,6 +42,8 @@ Then run, ` cd versions`
 lastly run, `python3 new.py`
 
 
+also check the config.py file for configuration.
+
 # How to use without checker (not recomended)
 
 run `cd NitroGen2.0`
@@ -72,8 +74,6 @@ Now press run! Should work!
 
 
 # Upcoming Features
-
-Config amout of numbers & letters in code 
 
 Proxy Support
 
