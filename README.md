@@ -43,3 +43,10 @@ Then make a new python project
 go to the terminal in the project and type `git clone https://github.com/m000000000n/NitroGen2.0`
 
 Now press run! Should work!
+
+
+# Contributors
+
+@committt
+@n1ssan
+@m000000000n
