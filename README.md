@@ -5,7 +5,7 @@
 
 
 
-![screen-gif](https://img.shields.io/github/languages/code-size/m000000000n/NitroGen2.0)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen2.0)   ![ok-ok](https://img.shields.io/github/license/m000000000n/NitroGen2.0)
+![screen-gif](https://img.shields.io/github/languages/code-size/m000000000n/NitroGen2.0)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen2.0)   ![ok-ok](https://img.shields.io/github/license/m000000000n/NitroGen2.0) ![no-no](https://img.shields.io/github/v/release/m000000000n/NitroGen2.0?include_prereleases)
 
 
 
