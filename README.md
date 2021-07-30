@@ -47,7 +47,7 @@ Then run, ` cd versions`
 lastly run, `python3 new.py`
 
 
-also check the config.py file for configuration.
+**MUST CHECK CONFIG.PY**
 
 # How to use without checker (not recomended)
 
