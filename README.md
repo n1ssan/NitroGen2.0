@@ -62,6 +62,14 @@ go to the terminal in the project and type `git clone https://github.com/m000000
 Now press run! Should work!
 
 
+# Upcoming Features
+
+Config amout of numbers & letters in code 
+
+Proxy Support
+
+
+
 # Contributors
 
 #### Owner 
