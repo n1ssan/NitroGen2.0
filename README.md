@@ -47,6 +47,20 @@ Now press run! Should work!
 
 # Contributors
 
-@committt
-@n1ssan
-@m000000000n
+#### Owner 
+
+Github.com/m000000000n
+
+
+#### Normal Contributors, Thank you to anyone to Contributes.
+
+
+
+Github.com/committt
+
+
+Github.com/n1ssan
+
+
+
+
