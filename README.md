@@ -14,7 +14,7 @@
 
 
 
-# Why and What this project is.
+# Features
 
 
 for discord users, who sadly could not afford nitro.
