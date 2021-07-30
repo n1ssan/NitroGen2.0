@@ -15,14 +15,19 @@
 
 
 # Features
+Nitro code generator
 
 
-for discord users, who sadly could not afford nitro.
-It generates a nitro gift code.
+Nitro code checker
 
-You can even add webhook support to send you the codes!
+Nitro code sniper (enable manually)
 
-> Not all codes will be valid, they will be checked if valid they will be sent.
+
+Invite gen
+
+
+Invite checker
+
 
 # Usage
 
