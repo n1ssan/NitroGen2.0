@@ -1,3 +1,6 @@
+# WARNING THIS IS THE CODE GENERATOR ONLY IF YOU ARE LOOKING TO SEE THE MAIN ONE THAT WORKS THE BEST GO TO VERSIONS AND GO TO NEW.PY
+
+
 import random
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','10']
 while True:                                                                     
