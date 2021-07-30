@@ -25,7 +25,7 @@ You can even add webhook support to send you the codes!
 
 > Not all codes will be valid, they will be checked if valid they will be sent
 
-# Ok Ok We get it, but how to use this?
+# Usage
 
 
 **Also note python3 is required to use this.**
