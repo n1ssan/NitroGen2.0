@@ -1,4 +1,4 @@
-(https://img.shields.io/github/languages/code-size/m000000000n/NitroGen2.0)
+[!(https://img.shields.io/github/languages/code-size/m000000000n/NitroGen2.0)]
 # Nitro Gen 2.0 (Now in Python)
 > Old Version (dont use) --> github.com/m000000000n/Nitro-genJs
 
