@@ -18,15 +18,15 @@
 Nitro code generator
 
 
-Nitro code checker
+- Nitro code checker
 
-Nitro code sniper (enable manually)
-
-
-Invite gen
+- Nitro code sniper (enable manually)
 
 
-Invite checker
+- Invite gen
+
+
+- Invite checker
 
 
 # Usage
