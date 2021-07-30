@@ -43,7 +43,6 @@ Then run, ` cd versions`
 lastly run, `python3 new.py`
 
 
-and thats it! you should be ready! 
 
 
 
