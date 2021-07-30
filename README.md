@@ -1,2 +1,2 @@
 # Nitro Gen 2.0 (Now in Python)
-> Old --> (https://github.com/m000000000n/Nitro-genJs)
+> Old Version --> https://github.com/m000000000n/Nitro-genJs
