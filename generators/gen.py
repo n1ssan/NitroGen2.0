@@ -1,1 +1,20 @@
-
+import random
+while True:                                                                     
+   w = random.choice(a)                                                           
+   d = random.choice(a)                                                           
+   e = random.choice(a)                                                           
+   f = random.choice(a)                                                           
+   g = random.choice(a)                                                           
+   h = random.choice(a)                                                           
+   i = random.choice(a)
+   j = random.choice(a) 
+   k = random.choice(a) 
+   l = random.choice(a) 
+   n = random.choice(a) 
+   o = random.choice(a) 
+   p = random.choice(a) 
+   q = random.choice(a) 
+   r = random.choice(a) 
+   s = random.choice(a) 
+   m = f+e+w+d+g+h+i+j+k+l+n+o+p+q+r+s  
+   print('discord.gifts/'+m)
