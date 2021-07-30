@@ -18,12 +18,11 @@
 
 
 for discord users, who sadly could not afford nitro.
-It generates a nitro gift code that you are able to claim! 
-
+It generates a nitro gift code.
 
 You can even add webhook support to send you the codes!
 
-> Not all codes will be valid, they will be checked if valid they will be sent
+> Not all codes will be valid, they will be checked if valid they will be sent.
 
 # Usage
 
