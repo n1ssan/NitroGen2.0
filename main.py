@@ -2,6 +2,7 @@
 import random
 import requests
 import time
+split(a b c d e f ghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ012345 6 7 8 9)
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k',]
 print("Wait ten seconds for codes to start coming  \n | \n V")
 while True:
