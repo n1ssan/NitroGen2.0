@@ -15,7 +15,7 @@
 
 
 # Features
-Nitro code generator
+- Nitro code generator
 
 
 - Nitro code checker
