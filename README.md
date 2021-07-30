@@ -9,6 +9,7 @@
 # Table of contents
 
 [(hi])](#Contributors)
+[(Back to top)](#Contributors)
 
 # Why and What this project is.
 I made this for discord users, who sadly could not afford nitro.
