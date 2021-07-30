@@ -15,7 +15,8 @@
 
 
 # Why and What this project is.
-Super Small & And Simple project to generate nitro 
+Super Small & And Simple project to generate nitro
+
 for discord users, who sadly could not afford nitro.
 It generates a nitro gift code that you are able to claim! 
 
