@@ -45,9 +45,9 @@ if choice == "1":
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
                                                                                   
-    print(Back.RED +'[INVAILD]'+'\033[31m' + '[x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
+    print(Fore.WHITE+Back.RED +'[INVAILD]'+'\033[31m' +Style.RESET_ALL+ '[x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
    if b.status_code == 429:                                                       
-    print(Back.YELLOW+"[WARNING]" + "\033[1;33m"+"[-]: Rate Limited"+"\033[0m")                                 
+    print(Fore.WHITE+Back.YELLOW+"[WARNING]"+Style.RESET_ALL+"\033[1;33m"+"[-]: Rate Limited"+"\033[0m")                                 
                                                                                    
    if b.status_code == 200:                                                       
     print('[GOOD] [+]: discord.gifts/'+m+'Is Valid!')
