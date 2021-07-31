@@ -45,12 +45,12 @@ if choice == "1":
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
                                                                                   
-    print('\033[31m' + ' [x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
+    print(Back.RED +'[INVAILD]'+'\033[31m' + '[x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
    if b.status_code == 429:                                                       
-    print("\033[1;33m"+" [-]: Rate Limited"+"\033[0m")                                 
+    print(Back.YELLOW+"[WARNING]" + "\033[1;33m"+"[-]: Rate Limited"+"\033[0m")                                 
                                                                                    
    if b.status_code == 200:                                                       
-    print(' [+]: discord.gifts/'+m+'Is Valid!')
+    print('[GOOD] [+]: discord.gifts/'+m+'Is Valid!')
     if sniperOn == True:
       requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
       print('Nitro redeemed!')
