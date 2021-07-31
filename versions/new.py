@@ -21,7 +21,7 @@ if lnmix == True:
 print(Fore.GREEN + logo)  
 choice = input(Fore.YELLOW+"[-]: "+Fore.BLUE+"What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker \n >> ")
 if choice == "1":                                                                                   
-while True:                                                                     
+ while True:                                                                     
    w = random.choice(a)                                                           
    d = random.choice(a)                                                           
    e = random.choice(a)                                                           
@@ -44,12 +44,12 @@ while True:
    b = requests.get(c)                                                            
    if b.status_code == 404:                                                       
                                                                                   
-    print('\033[31m' + 'discord.gifts/'+m+' Was invalid'+ '\033[0m')            
+    print('\033[31m' + ' [x]: discord.gifts/'+m+' Was invalid'+ '\033[0m')            
    if b.status_code == 429:                                                       
-    print("\033[1;33m"+"Rate Limited"+"\033[0m")                                 
+    print("\033[1;33m"+" [-]: Rate Limited"+"\033[0m")                                 
                                                                                    
    if b.status_code == 200:                                                       
-    print('discord.gifts/'+m+'Is Valid!')
+    print(' [+]: discord.gifts/'+m+'Is Valid!')
     if sniperOn == True:
       requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
       print('Nitro redeemed!')
