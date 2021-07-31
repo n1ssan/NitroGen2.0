@@ -18,7 +18,7 @@
 
 - Nitro code checker
 
-- Nitro code sniper (enable manually)
+- Nitro code sniper (enable in config.py)
 
 
 - Invite gen
