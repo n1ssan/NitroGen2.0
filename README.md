@@ -4,7 +4,7 @@
 
 
 
-![screen-gif](https://img.shields.io/github/languages/code-size/m000000000n/NitroGen)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen)  ![ok-ok](https://img.shields.io/github/license/m000000000n/NitroGen) ![no-no](https://img.shields.io/github/v/release/m000000000n/NitroGen?include_prereleases) ![ha](https://img.shields.io/badge/status-down-fixing%20-red)
+![screen-gif](https://img.shields.io/github/languages/code-size/m000000000n/NitroGen)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen)  ![ok-ok](https://img.shields.io/github/license/m000000000n/NitroGen) ![no-no](https://img.shields.io/github/v/release/m000000000n/NitroGen?include_prereleases) ![ha](https://img.shields.io/badge/status-fixing%20-yellow)
 
 
 
