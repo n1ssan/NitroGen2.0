@@ -18,8 +18,14 @@ if numbersOnly == True:
   a=['1','2','3','4','5','6','7','8','9','0']
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
-print(Fore.GREEN + logo)  
-choice = input(Fore.YELLOW+"[-]: "+Fore.BLUE+"What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker \n >> ")
+print(Fore.RED + """
+______  ___                   
+___   |/  /__________________ 
+__  /|_/ /_  __ \  __ \_  __ \
+_  /  / / / /_/ / /_/ /  / / /
+/_/  /_/  \____/\____//_/ /_/ """
+     )  
+choice = input(Fore.YELLOW+"[-]: "+Fore.+" ")
 if choice == "1":                                                                                   
  while True:                                                                     
    w = random.choice(a)                                                           
@@ -53,10 +59,11 @@ if choice == "1":
     if sniperOn == True:
       requests.post('https://discordapp.com/api/v6/entitlements/gift-codes/'+m+'/redeem', headers={'authorization': token, 'user-agent': 'Mozilla/5.0'})
       print('Nitro redeemed!')
-      else:
+      if sniperOn == False:
        file = open("okcodes.txt", "w")                                              
        file.write('discord.gifts/'+m)                                               
        file.close()
+       print("Code saved in 'okcodes.txt'")
        
 if choice == "2":
  os.system('python3 gen1.py')
