@@ -32,11 +32,11 @@
 
 **Also note python3 is required to use this.**
 
-First in your terminal run `git clone https://github.com/m000000000n/NitroGen2.0/`
+First in your terminal run `git clone https://github.com/m000000000n/Moon/`
 
 
 
-Then run `cd NitroGen2.0`
+Then run `cd Moon`
 
 
 Then run, ` cd versions`
@@ -49,7 +49,7 @@ lastly run, `python3 new.py`
 
 # How to use without checker (not recomended)
 
-run `cd NitroGen2.0`
+run `cd Moon`
 
 
 then `cd generator`
@@ -71,7 +71,7 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type `git clone https://github.com/m000000000n/NitroGen2.0`
+go to the terminal in the project and type `git clone https://github.com/m000000000n/Moon`
 
 Now press run! Should work!
 
