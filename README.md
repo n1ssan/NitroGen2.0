@@ -1,4 +1,4 @@
-# Nitro Gen 2.0
+# Moon
 ![alt text](https://github.com/m000000000n/NitroGen2.0/blob/main/D53E4619-3FD9-4889-BA67-43EC70BC89AE.jpeg/?raw=true)
 
 *Super Small & And Simple project to generate nitro codes and check them*
