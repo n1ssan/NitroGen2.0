@@ -5,27 +5,22 @@ import os
 from colorama import Fore, Back, Style
 from config import *
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
-logo = """
+logo = ("""
 ______  ___                   
 ___   |/  /__________________ 
 __  /|_/ /_  __ \  __ \_  __ \
 _  /  / / / /_/ / /_/ /  / / /
 /_/  /_/  \____/\____//_/ /_/ 
-"""
+""")
 if lettersOnly == True:
  a=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 if numbersOnly == True:
   a=['1','2','3','4','5','6','7','8','9','0']
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
-print(Fore.RED + """
-______  ___                   
-___   |/  /__________________ 
-__  /|_/ /_  __ \  __ \_  __ \
-_  /  / / / /_/ / /_/ /  / / /
-/_/  /_/  \____/\____//_/ /_/ """
-     )  
-choice = input(Fore.YELLOW+"[-]: "+Fore.+" ")
+print(Fore.RED + logo)
+print("Enter ? for how to use")
+choice = input(Fore.YELLOW+"[-]: ")
 if choice == "1":                                                                                   
  while True:                                                                     
    w = random.choice(a)                                                           
