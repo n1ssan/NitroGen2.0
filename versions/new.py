@@ -19,7 +19,7 @@ if numbersOnly == True:
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
 print(Fore.GREEN + logo)  
-choice = input(Fore.BLUE+"What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker")
+choice = input(Fore.YELLOW+"[-]: "+Fore.BLUE+"What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker \n >> ")
 if choice == "1":                                                                                   
 while True:                                                                     
    w = random.choice(a)                                                           
