@@ -2,15 +2,24 @@
 import random                                                                   
 import requests
 import os
+from colorama import Fore, Back, Style
 from config import *
 a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
+logo = """
+______  ___                   
+___   |/  /__________________ 
+__  /|_/ /_  __ \  __ \_  __ \
+_  /  / / / /_/ / /_/ /  / / /
+/_/  /_/  \____/\____//_/ /_/ 
+"""
 if lettersOnly == True:
  a=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 if numbersOnly == True:
   a=['1','2','3','4','5','6','7','8','9','0']
 if lnmix == True:
   a = ['1','2','3','4','5','6','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','7','8','9','0']
-choice = input("What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker")
+print(Fore.GREEN + logo)  
+choice = input(Fore.BLUE+"What would you like to use \n 1. Nitro code gen & checker \n 2. Nitro code gen only \n 3. invite gen \n 4. invite gen & checker")
 if choice == "1":                                                                                   
 while True:                                                                     
    w = random.choice(a)                                                           
@@ -50,8 +59,8 @@ while True:
        file.close()
        
 if choice == "2":
- os.system('python gen1.py')
+ os.system('python3 gen1.py')
 if choice == "3":
- os.system('python invitegen.py')
+ os.system('python3 invitegen.py')
 if choice == "4":
- os.system('python invitechecker.py')
+ os.system('python3 invitechecker.py')
