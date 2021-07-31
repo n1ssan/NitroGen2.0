@@ -8,8 +8,7 @@
 
 
 
-
-=====
+# 
 
 
 
@@ -80,8 +79,6 @@ Now press run! Should work!
 # Upcoming Features
 
 Proxy Support
-invite generator + checker
-the abillity to claim the codes instantly (using token)
 
 
 # Contributors
