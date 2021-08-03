@@ -4,7 +4,6 @@
 
 
 
-![screen-gif](https://img.shields.io/github/languages/code-size/7ua/NitroGen)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen)  ![ok-ok](https://img.shields.io/github/license/7ua/NitroGen) ![no-no](https://img.shields.io/github/v/release/7ua/NitroGen?include_prereleases) ![ha](https://img.shields.io/badge/status-fixing%20-yellow)
 
 
 
