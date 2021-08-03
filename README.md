@@ -4,7 +4,7 @@
 
 
 
-![screen-gif](https://img.shields.io/github/languages/code-size/m000000000n/NitroGen)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen)  ![ok-ok](https://img.shields.io/github/license/m000000000n/NitroGen) ![no-no](https://img.shields.io/github/v/release/m000000000n/NitroGen?include_prereleases) ![ha](https://img.shields.io/badge/status-fixing%20-yellow)
+![screen-gif](https://img.shields.io/github/languages/code-size/7ua/NitroGen)  ![hi-hi](   https://img.shields.io/github/last-commit/m000000000n/NitroGen)  ![ok-ok](https://img.shields.io/github/license/7ua/NitroGen) ![no-no](https://img.shields.io/github/v/release/7ua/NitroGen?include_prereleases) ![ha](https://img.shields.io/badge/status-fixing%20-yellow)
 
 
 
@@ -32,7 +32,7 @@
 
 **Also note python3 is required to use this.**
 
-First in your terminal run `git clone https://github.com/m000000000n/Moon/`
+First in your terminal run `git clone https://github.com/7ua/Moon/`
 
 
 
@@ -71,7 +71,7 @@ First go to replit.com
 Then make a new python project
 
 
-go to the terminal in the project and type `git clone https://github.com/m000000000n/Moon`
+go to the terminal in the project and type `git clone https://github.com/7ua/Moon`
 
 Now press run! Should work!
 
@@ -85,7 +85,7 @@ Proxy Support
 
 #### Owner 
 
-Github.com/m000000000n
+Github.com/7ua
 
 
 #### Normal Contributors, Thank you to anyone to Contributes.
