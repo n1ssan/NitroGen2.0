@@ -35,16 +35,6 @@ RUN: `git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3
 
 **MUST CHECK CONFIG.PY**
 
-# How to use without checker (not recomended)
-
-run `cd Moon`
-
-
-then `cd generator`
-
-
-then run `python3 gen.py`
-
 
 
 
