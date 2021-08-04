@@ -31,18 +31,7 @@
 
 **Also note python3 is required to use this.**
 
-First in your terminal run `git clone https://github.com/7ua/Moon/`
-
-
-
-Then run `cd Moon`
-
-
-Then run, ` cd versions`
-
-
-lastly run, `python3 new.py`
-
+RUN: `git clone https://github.com/7ua/Moon && cd Moon && cd versions && python3 new.py`
 
 **MUST CHECK CONFIG.PY**
 
